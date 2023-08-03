@@ -37,14 +37,20 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "GITHUB",
+      "url": "https://github.com/hufacundo",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "name": "LINKEDIN",
+      "url": "https://www.linkedin.com/in/hufacundo/",
+      "linkedin": true
+    },
+
+    {
+      "name": "SALESFORCE",
+      "url": "https://www.salesforce.com/trailblazer/hufacundo",
+      "salesforce": true
     }
   ],
   "professionalExperience": [
