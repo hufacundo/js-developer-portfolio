@@ -51,13 +51,13 @@
     {
       "name": "LINKEDIN",
       "url": "https://www.linkedin.com/in/hufacundo/",
-      "linkedin": true
+      "github": true
     },
 
     {
       "name": "SALESFORCE",
       "url": "https://www.salesforce.com/trailblazer/hufacundo",
-      "salesforce": true
+      "github": true
     }
   ],
   "professionalExperience": [
